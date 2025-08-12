@@ -22,7 +22,7 @@ The project explores several custom CNN architectures, including a `QuadtreeCNN`
 * **Hierarchical Feature Extraction:** A custom `HierarchicalQuadtreeCNN` analyzes images at three spatial scales (global, quadrant, and sub-quadrant) to capture both holistic and fine-grained details.
 * **Attention Mechanism:** An implementation of an attention gate that allows the model to learn and focus on the most relevant sub-regions of an image.
 * **Comparative Analysis:** A full framework for training and evaluating multiple modern CNN architectures on the same dataset.
-* **Explainable AI:** Integrated visualization tools like Grad-CAM to understand the model's decision-making process by highlighting important image regions.
+* **Explainable:** Integrated visualization tools like Grad-CAM to understand the model's decision-making process by highlighting important image regions.
 
 ---
 
