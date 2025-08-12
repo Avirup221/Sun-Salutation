@@ -2,7 +2,6 @@
 
 This project presents a deep learning pipeline for classifying yoga poses within the Sun Salutation (Surya Namaskar) sequence from video frames. The core of this work is a novel, multi-scale CNN architecture that processes both visual and numerical landmark data to achieve high-accuracy pose recognition.
 
-![Grad-CAM Visualization of a forward bend pose](gradcam.jpg)
 
 ---
 
